@@ -7,7 +7,7 @@
 **Tech Stack:** React • Next.js • TypeScript • MongoDB • Node.js
 
 🔭 I'm currently working on **Traksale**  
-🌱 Learning **GraphQL**  
+🌱 Learning **AI**  
 👯 Looking to collaborate on **Web Development**  
 📫 Reach me at: **srinivasareddye28@gmail.com**  
 
