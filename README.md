@@ -10,7 +10,16 @@
 🌱 Learning **GraphQL**  
 👯 Looking to collaborate on **Web Development**  
 📫 Reach me at: **srinivasareddye28@gmail.com**  
-🔗 Portfolio: [Portfolio](https://srinu-portfolio-omega.vercel.app/)
+
+<!--  🔗 Portfolio: [Portfolio](https://srinu-portfolio-omega.vercel.app/) -->
+
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1bmpJy_gGx-stlgD4MIUpmfZmCQBh5Ov8/view?usp=sharing" download target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume" />
+  </a>
+</p>
+
 
 ---
 
