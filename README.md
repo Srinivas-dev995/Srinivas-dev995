@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/736x/8a/eb/63/8aeb639c9f0356e10db1920a5d612e52.jpg" alt="Masterhead Banner" width="100%" />
 </p>
 
-**Frontend Developer | 2+ Years Experience | React, Next.js, TypeScript, MongoDB, Node.js**
+**MERN Stack Developer | 2+ Years Experience | React, Next.js, TypeScript, MongoDB, Node.js, Express.js**
 
-**Tech Stack:** React • Next.js • TypeScript • MongoDB • Node.js
+**Tech Stack:** React • Next.js • TypeScript • MongoDB • Node.js • Express.js
 
 🔭 I'm currently working on **Traksale**  
 🌱 Learning **AI**  
